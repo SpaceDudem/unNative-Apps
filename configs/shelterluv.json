@@ -1,0 +1,12 @@
+{
+  "name": "shelterluv",
+  "url": "https:\/\/www.shelterluv.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "shelterluv.com|connect.facebook.net",
+  "isFullscreen": false,
+  "primaryHosts": "shelterluv.com",
+  "searchUrl": "",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}
