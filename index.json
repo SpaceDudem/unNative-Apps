@@ -5,71 +5,78 @@
         {
             "id": "reddit",
             "name": "Reddit",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/reddit.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/reddit.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/reddit.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/reddit.png",
             "category": "Social"
         },
         {
             "id": "facebook",
             "name": "Facebook",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/facebook.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/facebook.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/facebook.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/facebook.png",
             "category": "Social"
         },
         {
             "id": "twitter",
             "name": "twitter",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/twitter.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/twitter.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/twitter.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/twitter.png",
             "category": "Social"
         },
         {
             "id": "linkedin",
             "name": "Linkedin",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/linkedin.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/linkedin.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/linkedin.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/linkedin.png",
             "category": "Social"
         },
         {
             "id": "instagram",
             "name": "instagram",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/instagram.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/instagram.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/instagram.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/instagram.png",
+            "category": "Social"
+        },
+        {
+            "id": "ShelterLuv",
+            "name": "ShelterLuv",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/shelterluv.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/shelterluv.png",
             "category": "Social"
         },
         {
             "id": "goodreads",
             "name": "goodreads",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/goodreads.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/goodreads.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/goodreads.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/goodreads.png",
             "category": "Social"
         },
         {
             "id": "slashdot",
             "name": "Slashdot",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/slashdot.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/slashdot.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/slashdot.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/slashdot.png",
             "category": "Social"
         },
         {
             "id": "pinterest",
             "name": "Pinterest",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/pinterest.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/pinterest.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/pinterest.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/pinterest.png",
             "category": "Social"
         },
         {
             "id": "quora",
             "name": "Quora",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/quora.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/quora.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/quora.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/quora.png",
             "category": "Social"
         },
         {
             "id": "tumblr",
             "name": "tumblr.",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/tumblr.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/tumblr.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/tumblr.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/tumblr.png",
             "category": "Social"
         },
         
@@ -78,22 +85,22 @@
         {
             "id": "youtube",
             "name": "YouTube",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/youtube.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/youtube.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/youtube.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/youtube.png",
             "category": "Video"
         },
         {
             "id": "vimeo",
             "name": "Vimeo",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/vimeo.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/vimeo.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/vimeo.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/vimeo.png",
             "category": "Video"
         },
         {
             "id": "twitch",
             "name": "twitch",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/twitch.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/twitch.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/twitch.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/twitch.png",
             "category": "Video"
         },
         
@@ -102,8 +109,8 @@
         {
             "id": "soundcloud",
             "name": "Soundcloud",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/soundcloud.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/soundcloud.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/soundcloud.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/soundcloud.png",
             "category": "Music"
         },
         
@@ -112,29 +119,29 @@
         {
             "id": "duckduckgo",
             "name": "DuckDuckGo",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/duckduckgo.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/duckduckgo.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/duckduckgo.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/duckduckgo.png",
             "category": "Search"
         },
         {
             "id": "google",
             "name": "Google",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/google.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/google.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/google.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/google.png",
             "category": "Search"
         },
         {
             "id": "bing",
             "name": "Bing",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/bing.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/bing.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/bing.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/bing.png",
             "category": "Search"
         },
         {
             "id": "baidu",
             "name": "Baidu",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/baidu.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/baidu.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/baidu.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/baidu.png",
             "category": "Search"
         },
         
@@ -143,43 +150,43 @@
         {
             "id": "googlenews",
             "name": "Google News",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/googlenews.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/googlenews.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/googlenews.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/googlenews.png",
             "category": "News"
         },
         {
             "id": "bbc",
             "name": "BBC",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/bbc.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/bbc.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/bbc.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/bbc.png",
             "category": "News"
         },
         {
             "id": "newyorktimes",
             "name": "The New York Times",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/newyorktimes.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/newyorktimes.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/newyorktimes.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/newyorktimes.png",
             "category": "News"
         },
         {
             "id": "cnn",
             "name": "CNN",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/cnn.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/cnn.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/cnn.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/cnn.png",
             "category": "News"
         },
         {
             "id": "ndtv",
             "name": "NDTV",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/ndtv.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/ndtv.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/ndtv.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/ndtv.png",
             "category": "News"
         },
         {
             "id": "feedly",
             "name": "Feedly",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/feedly.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/feedly.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/feedly.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/feedly.png",
             "category": "News"
         },
         
@@ -188,15 +195,15 @@
         {
             "id": "imdb",
             "name": "IMDb",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/imdb.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/imdb.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/imdb.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/imdb.png",
             "category": "Entertainment"
         },
         {
             "id": "rottentomatoes",
             "name": "Rotten Tomatoes",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/rottentomatoes.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/rottentomatoes.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/rottentomatoes.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/rottentomatoes.png",
             "category": "Entertainment"
         },
         
@@ -205,36 +212,36 @@
         {
             "id": "wikipedia",
             "name": "Wikipedia",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/wikipedia.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/wikipedia.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/wikipedia.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/wikipedia.png",
             "category": "Education"
         },
         {
             "id": "khanacademy",
             "name": "Khan Academy",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/khanacademy.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/khanacademy.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/khanacademy.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/khanacademy.png",
             "category": "Education"
         },
         {
             "id": "coursera",
             "name": "Coursera",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/coursera.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/coursera.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/coursera.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/coursera.png",
             "category": "Education"
         },
         {
             "id": "duolingo",
             "name": "duolingo",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/duolingo.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/duolingo.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/duolingo.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/duolingo.png",
             "category": "Education"
         },
         {
             "id": "wolframalpha",
             "name": "Wolfram Alpha",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/wolframalpha.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/wolframalpha.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/wolframalpha.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/wolframalpha.png",
             "category": "Education"
         },
         
@@ -243,15 +250,15 @@
         {
             "id": "allrecipes",
             "name": "allrecipes",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/allrecipes.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/allrecipes.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/allrecipes.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/allrecipes.png",
             "category": "Food"
         },
         {
             "id": "yelp",
             "name": "Yelp",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/yelp.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/yelp.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/yelp.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/yelp.png",
             "category": "Food"
         },
         
@@ -260,22 +267,22 @@
         {
             "id": "amazon",
             "name": "Amazon",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/amazon.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/amazon.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/amazon.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/amazon.png",
             "category": "Shopping"
         },
         {
             "id": "ebay",
             "name": "eBay",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/ebay.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/ebay.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/ebay.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/ebay.png",
             "category": "Shopping"
         },
         {
             "id": "alibaba",
             "name": "Alibaba.com",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/alibaba.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/alibaba.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/alibaba.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/alibaba.png",
             "category": "Shopping"
         },
         
@@ -284,22 +291,22 @@
         {
             "id": "yahooweather",
             "name": "Yahoo Weather",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/yahooweather.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/yahooweather.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/yahooweather.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/yahooweather.png",
             "category": "Weather"
         },
         {
             "id": "darksky",
             "name": "Darksky",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/darksky.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/darksky.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/darksky.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/darksky.png",
             "category": "Weather"
         },
         {
             "id": "accuweather",
             "name": "AccuWeather",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/accuweather.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/accuweather.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/accuweather.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/accuweather.png",
             "category": "Weather"
         },
         
@@ -308,22 +315,22 @@
         {
             "id": "imgur",
             "name": "imgur",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/imgur.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/imgur.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/imgur.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/imgur.png",
             "category": "Images"
         },
         {
             "id": "deviantart",
             "name": "Deviant Art",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/deviantart.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/deviantart.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/deviantart.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/deviantart.png",
             "category": "Images"
         },
         {
             "id": "imgbb",
             "name": "imgbb",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/imgbb.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/imgbb.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/imgbb.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/imgbb.png",
             "category": "Images"
         },
         
@@ -332,15 +339,15 @@
         {
             "id": "github",
             "name": "GitHub",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/github.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/github.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/github.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/github.png",
             "category": "Development"
         },
         {
             "id": "stackoverflow",
             "name": "Stack Overflow",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/stackoverflow.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/stackoverflow.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/stackoverflow.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/stackoverflow.png",
             "category": "Development"
         },
         
@@ -349,15 +356,15 @@
         {
             "id": "tripadvisor",
             "name": "tripadvisor",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/tripadvisor.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/tripadvisor.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/tripadvisor.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/tripadvisor.png",
             "category": "Travel"
         }, 
         {
             "id": "booking",
             "name": "Booking.com",
-            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/booking.json",
-            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/booking.png",
+            "config": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/configs/booking.json",
+            "icon": "https://raw.githubusercontent.com/spacedudem/unNative-Apps/master/images/booking.png",
             "category": "Travel"
         }      
     ]
